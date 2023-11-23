@@ -10,7 +10,7 @@ public class JenkinsRestController {
 
 	@GetMapping("/show")
 	public String showData() {
-		return "welcome to ganesh..";
+		return "welcome to ganesh..just for update";
 	}
 	
 }
